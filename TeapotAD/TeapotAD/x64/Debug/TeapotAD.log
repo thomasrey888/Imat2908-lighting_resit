@@ -1,0 +1,8 @@
+﻿  scenediffuse.cpp
+C:\Users\torpe\Desktop\Lab_Lighting (1)\TeapotAD\TeapotAD\scenediffuse.cpp(73,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\torpe\Desktop\Lab_Lighting (1)\TeapotAD\TeapotAD\scenediffuse.cpp(75,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\torpe\Desktop\Lab_Lighting (1)\TeapotAD\TeapotAD\scenediffuse.cpp(94,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\torpe\Desktop\Lab_Lighting (1)\TeapotAD\TeapotAD\scenediffuse.cpp(96,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\torpe\Desktop\Lab_Lighting (1)\TeapotAD\TeapotAD\scenediffuse.cpp(105,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\torpe\Desktop\Lab_Lighting (1)\TeapotAD\TeapotAD\scenediffuse.cpp(108,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  TeapotAD.vcxproj -> C:\Users\torpe\Desktop\Lab_Lighting (1)\TeapotAD\x64\Debug\TeapotAD.exe
